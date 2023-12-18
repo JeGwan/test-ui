@@ -12,5 +12,14 @@
   "repository": {
     "url": "https://github.com/JeGwan/test-ui"
   },
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "react": ">=15.6",
+    "react-dom": ">=15.6"
+  },
+  "devDependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "typescript": "^5"
+  }
 }
