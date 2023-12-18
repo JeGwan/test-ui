@@ -1,0 +1,16 @@
+{
+  "name": "@jegwan/test-ui",
+  "version": "1.0.0",
+  "description": "ui package test",
+  "scripts": {},
+  "keywords": [],
+  "author": {
+    "name": "JeGwan",
+    "email": "emperorvv@gmail.com",
+    "url": "https://github.com/JeGwan"
+  },
+  "repository": {
+    "url": "https://github.com/JeGwan/test-ui"
+  },
+  "license": "GPL-3.0"
+}
