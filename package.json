@@ -2,7 +2,9 @@
   "name": "@jegwan/test-ui",
   "version": "1.0.0",
   "description": "ui package test",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [],
   "author": {
     "name": "JeGwan",
